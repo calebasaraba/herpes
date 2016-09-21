@@ -39,6 +39,41 @@ for (i in (1:926)){
 for (i in lonesomerows){
   taxalist[[length(taxalist)+1]]<-c(i)
 }
+reduceT <- function(x, input){
+  b<-c()
+  for(i in 1:length(input)){
+    a<-intersect(x, input[[i]])
+    if(length(a)>0){
+      if(identical(x, a)){
+        print("Identical")
+        b<-c(b,x)
+        b<-unique(b)
+      }else{
+        print(paste('Taxa',i,":"))  
+        print(x)
+        b<- c(b,x, input[[i]])
+        b<-unique(b)
+        print(paste('New Taxa:'))
+        print(b)
+      }
+    }
+  }
+  return(b)
+}
+scyther<-taxalist
+arcanine<-list()
+for(i in 1:length(scyther)){
+  g <- reduceT(scyther[[i]], scyther)
+  arcanine[[length(arcanine)+1]]<-g
+}
+blastoise<-list()
+for(i in 1:length(arcanine)){
+  g <- reduceT(arcanine[[i]], arcanine)
+  blastoise[[length(blastoise)+1]]<-g
+}
+blastoise<-lapply(blastoise, sort)
+blastoise<-unique(blastoise)
+taxalist<-blastoise
 #record groups
 taxanames<-c()
 for(i in 1:length(taxalist)){
@@ -58,7 +93,7 @@ olaf<-data.frame(olaf)
 rownames(olaf)<-taxanames
 colnames(olaf)<-colnames(loweroriginal)
 taxa97<-olaf[,order(colnames(olaf))]
-write.table(taxa97,"taxa97.txt",sep=",")
+write.csv(taxa97,"taxa97.csv")
 
 x <- 0
 for(i in taxalist){
