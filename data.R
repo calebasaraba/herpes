@@ -54,7 +54,7 @@ for (i in 1:(nrow(idMat)-1)){
 Sample1<-(substring(Prime,1,8))
 Sample2<-(substring(Comparison,1,8))
 
-aslaug<-data.frame(Prime, Comparison, Similarity, Sample1, Sample2)
+aslaug<-data.frame(Prime, Comparison, Similarity, Sample1, Sample2, stringsAsFactors = FALSE)
 
 #assigning a final name
 idList<-aslaug
@@ -64,6 +64,7 @@ idList<-aslaug
 library(xlsx)
 stone<-read.xlsx("Sample details.xlsx",1)
 
+details<-readr
 details<-stone
 
 #combining sample details with sample names from the matrix  
@@ -72,11 +73,12 @@ sampleNames<-substring(sampleNames,1,8)
 sampleNames<-data.frame(sampleNames)
 sampleNames<-unique(sampleNames)
 
-descriptive<-merge(sampleNames,details,by.x="sampleNames", by.y ="CII.ID")
 
-combined<-merge(idList,details, by.x = "Sample1", by.y = "CII.ID")
-combined<-combined[,1:6]
-colnames(combined)[6]<-"Animal1"
-combined<-merge(combined,details, by.x = "Sample2", by.y = "CII.ID")
-combined<-combined[,1:7]
-colnames(combined)[7]<-"Animal2"
+#deprecated
+#combined<- full_join(idList,details, by = c("Sample1" = "CII.ID"))
+#combined<-combined[,1:6]
+#colnames(combined)[6]<-"Animal1"
+#combined<-full_join(combined,details, by = c("Sample2" = "CII.ID"))
+#combined<-combined[,1:7]
+#colnames(combined)[7]<-"Animal2"
+#combined <- combined[which(complete.cases(combined)),]
