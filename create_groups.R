@@ -86,4 +86,5 @@ rownames(olaf)<-taxanames
 colnames(olaf)<-colnames(loweroriginal)
 final_groups<-olaf[,order(colnames(olaf))]
 final_groups
+results <- list(taxalist, final_groups)
 }
