@@ -7,7 +7,7 @@ potential<-which(over, arr.ind = TRUE)
 columnvals<-c(potential[,2])
 columnvals<-unique(columnvals)
 taxalist<-list()
-for (j in columnvals){
+for(j in columnvals){
   sametaxa<-c(potential[which(potential[,2]==j),1])
   finaltaxa<-c(j)
   for(i in sametaxa){
@@ -16,7 +16,7 @@ for (j in columnvals){
     sametaxa<-c(nextlevel,sametaxa)
     sametaxa<-unique(sametaxa)
   }
-  if(j==1){
+  if(j==columnvals[1]){
     taxalist[[length(taxalist)+1]]<-finaltaxa
   }
   else if(!is.element(finaltaxa,taxalist[[length(taxalist)]])[1]){
@@ -37,6 +37,7 @@ for (i in (1:length(colnames(idMat)))){
 for (i in lonesomerows){
   taxalist[[length(taxalist)+1]]<-c(i)
 }
+#this is a reduction function that makes sure there is no overlap between groups
 reduceT <- function(x, input){
   b<-c()
   for(i in 1:length(input)){
@@ -53,12 +54,16 @@ reduceT <- function(x, input){
   }
   return(b)
 }
+
+#this is first round of reduction, just in case there is overlap
 scyther<-taxalist
 arcanine<-list()
 for(i in 1:length(scyther)){
   g <- reduceT(scyther[[i]], scyther)
   arcanine[[length(arcanine)+1]]<-g
 }
+
+# this reduces taxalists again
 blastoise<-list()
 for(i in 1:length(arcanine)){
   g <- reduceT(arcanine[[i]], arcanine)
@@ -67,11 +72,13 @@ for(i in 1:length(arcanine)){
 blastoise<-lapply(blastoise, sort)
 blastoise<-unique(blastoise)
 taxalist<-blastoise
+# this creates the taxanames you see together
 taxanames<-c()
 for(i in 1:length(taxalist)){
   name<-paste0(cutoff,"group",i)
   taxanames[length(taxanames)+1]<-name
 }
+# this creates the output dataframe
 taxanames
 olaf<-matrix(c(0), nrow=length(taxanames),ncol=length(colnames(idMat)))
 for(i in 1:length(taxalist)){

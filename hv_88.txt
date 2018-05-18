@@ -1,0 +1,124 @@
+HV_PDF-2203 consensus sequence 1, HV_PDF-2203 consensus sequence 2
+HV_PDF-3223_alignment_consensus_sequence_, HV_PDF-3223_only_sequence_
+HV_PDF-2797_alignment2_consensus_sequence, HV_PDF-2954_alignment_consensus_sequence
+HV_PDF-0246_alignment_consensus_sequence, HV_PDF-3298_alignment_consensus_sequence_, HV_PDF-0253_alignment2_consensus_sequence, HV_PDF-0253_alignment1_consensus_sequence
+HV_PDF-2811_alignment_consensus_sequence, HV_PDF-3124_alignment_consensus_sequence_
+HV_PDF-3153_alignment_consensus_sequence, HV_PDF-3153_only_sequence1_
+HV_PDF-3067_only_sequence2, HV_PDF-3070_alignment3_consensus_sequence_
+HV_PDF-2992_alignment2_consensus_sequence, HV_PDF-3208_alignment_consensus_sequence, HV_PDF-2992_alignment1_consensus_sequence
+PSW0002 Seq 3 Only Seq, PSW0007 Seq 3 Only Seq (reversed)
+HV_PDF-2859_alignment_consensus, HV_PDF-3326_alignment1_consensus_sequence
+HV_PDF-2264 consensus sequence, HV_PDF-2346 consensus sequence, HV_PDF-2269 consensus sequence, HV_PDF-2313 consensus sequence
+HV_PDF-3028_only_sequence_, HV_PDF-3326_alignment2_consensus_sequence
+HV_PDF-2381 consensus sequence, HV_PDF-2376 consensus sequence 2, HV_PDF-2324 consensus sequence, HV_PDF-2362 consensus sequence
+HV_PDF-2394 consensus sequence, HV_PDF-2400 consensus sequence
+HV_PDF-2031 consensus sequence 2, HV_PDF-2491 consensus sequence 1
+HV_PDF-2730 consensus sequence, HV_PDF-2613 consensus sequence, HV_PDF-2545 consensus sequence, HV_PDF-2457 consensus sequence, HV_PDF-2040 consensus sequence, HV_PDF-2018 consensus sequence, HV_PDF-1915 consensus sequence
+HV_PDF-2525 consensus sequence, HV_PDF-2558 consensus sequence, HV_PDF-1898 consensus sequence, HV_PDF-2511 consensus sequence, HV_PDF-1903 consensus sequence, HV_PDF-1922 consensus sequence, HV_PDF-1930 consensus sequence, HV_PDF-1944 consensus sequence, HV_PDF-1967 consensus sequence, HV_PDF-2024 consensus sequence, HV_PDF-2466 consensus sequence, HV_PDF-2521 consensus sequence, HV_PDF-2582 consensus sequence, HV_PDF-2595 consensus sequence, HV_PDF-2668 consensus sequence, HV_PDF-2685 consensus sequence, HV_PDF-2686 consensus sequence, HV_PDF-2704 consensus sequence, HV_PDF-2705 consensus sequence
+HV_PDF-2421 consensus sequence, HV_PDF-2154 consensus sequence, HV_PDF-1844 consensus sequence, HV_PDF-1843 consensus sequence, HV_PDF-1829 consensus sequence 1, HV_PDF-1832 consensus sequence, HV_PDF-2445 consensus sequence 2
+HV_PDF-2079 consensus sequence, HV_PDF-2543 consensus sequence
+HV_PDF-1826 consensus sequence 1, HV_PDF-2148 consensus sequence, HV_PDF-2139 consensus sequence 2, HV_PDF-2442 consensus sequence 1, HV_PDF-2433 consensus sequence, HV_PDF-2430 consensus sequence, HV_PDF-1853 consensus sequence, HV_PDF-2127 consensus sequence 1, HV_PDF-2424 consensus sequence 3, HV_PDF-1817 consensus sequence, HV_PDF-2212 consensus sequence 2
+HV_PDF-2676 consensus sequence, HV_PDF-2739 consensus sequence
+HV_PDF-2538 consensus sequence, HV_PDF-2424 consensus sequence 1, HV_PDF-2215 consensus sequence, HV_PDF-2214 consensus sequence, HV_PDF-2212 consensus sequence 1, HV_PDF-1826 consensus sequence 2, HV_PDF-2442 consensus sequence 2, HV_PDF-2127 consensus sequence 2
+HV_PDF-3371_only_sequence, HV_PDF-3402_alignment_consensus_sequence_
+HV_PDF-2942_alignment2_consensus_sequence, HV_PDF-2942_only_sequence
+PSW0574 consensus seq, HV_PDF-1759 consensus sequence, PSW0777 consensus seq (reversed)
+PSW0310 consensus seq (reversed), PSW0717 consensus seq (reversed), PSW0176 consensus sequence (reversed)
+PSW0174 consensus sequence, PSW0347 consensus seq (reversed)
+HV_PDF-2296 consensus sequence, HV_PDF-2376 consensus sequence 1, HV_PDF-2368 consensus sequence, HV_PDF-2326 consensus sequence, HV_PDF-2355 consensus sequence
+HV_PDF-2914_alignment_consensus_sequence, HV_PDF-3128_alignment_consensus_sequence_
+HV_PDF-3074_only_sequence_, HV_PDF-3075_alignment_consensus_sequence_
+HV_PDF-2872_alignment_consensus_sequence, HV_PDF-2872_only_sequence2
+HV_PDF-2366 consensus sequence, HV_PDF-2352 consensus sequence, HV_PDF-2270 consensus sequence, HV_PDF-2336 consensus sequence
+PSW0997 seq2 consensus, PSW0653 seq1 consensus sequence, PSW0668 consensus seq, PSW0730 consensus seq, PSW0652 consensus sequence, PSW1043 consensus seq (reversed), PSW1049 consensus seq (reversed)
+HV_PDF-2641 consensus sequence, HV_PDF-2665 consensus sequence
+HV_PDF-2393 consensus sequence, HV_PDF-2397 consensus sequence
+HV_PDF-2401 consensus sequence, HV_PDF-2166 consensus sequence, HV_PDF-2399 consensus sequence, HV_PDF-2413 consensus sequence
+HV_PDF-3098_alignment_consensus_sequence, HV_PDF-3150_alignment_consensus_sequence
+PSW0309 consensus sequence, PSW0488 consensus sequence, PSW0556_Consensus_Sequence, PSW0307 consensus seq
+PSW0832 consensus seq, PSW0997 seq1 consensus
+PSW0358 Consensus Sequence, PSW0897 consensus seq, PSW1014 consensus seq, PSW0882 consensus seq, PSW0207 consensus seq, PSW0915 consensus seq
+PSW0001 Seq1 Consensus Sequence, PSW0007 Seq 1 Consensus Seq (reversed), PSW0002 Seq2 Consensus Seq
+PSW0276 Consensus Sequence, PSW0002 Seq1 Consensus Seq, PSW0001 Seq2 Consensus Sequence, PSW0007 Seq 2 Only Seq (reversed), PSW0006 Consensus seq, PSW0005 consensus seq, HV_PDF-0446_alignment_consensus_sequence
+PSW0573 consensus seq, PSW0758 consensus seq, PSW0466 consensus seq
+HV_PDF-2612 consensus sequence, HV_PDF-2604 consensus sequence, HV_PDF-1988 consensus sequence, HV_PDF-2600 consensus sequence
+HV_PDF-2598 consensus sequence, HV_PDF-2597 consensus sequence, HV_PDF-2031 consensus sequence 1, HV_PDF-2485 consensus sequence 2
+HV_PDF-2647 consensus sequence, HV_PDF-1904 consensus sequence, HV_PDF-2529 consensus sequence
+HV_PDF-2000 consensus sequence, HV_PDF-1999 consensus sequence, HV_PDF-1942 consensus sequence, HV_PDF-1940 consensus sequence, HV_PDF-1941 consensus sequence
+HV_PDF-2140 consensus sequence, HV_PDF-2425 consensus sequence, HV_PDF-2139 consensus sequence 1, HV_PDF-2424 consensus sequence 2, HV_PDF-2122 consensus sequence, HV_PDF-2121 consensus sequence, HV_PDF-1857 consensus sequence, HV_PDF-1838 consensus sequence, HV_PDF-1829 consensus sequence 2, HV_PDF-2445 consensus sequence 1
+PSW1034 seq1 consensus (reversed), PSW1047 consensus (reversed), HV_PDF-2727 consensus sequence, HV_PDF-2726 consensus sequence, HV_PDF-2725 consensus sequence, HV_PDF-2683 consensus sequence, HV_PDF-2682 consensus sequence, HV_PDF-2679 consensus sequence, HV_PDF-1894 consensus sequence, HV_PDF-1896 consensus sequence
+HV_PDF-2106 consensus sequence, HV_PDF-2107 consensus sequence
+HV_PDF-0149_alignment_consensus_sequence
+HV_PDF-0145_alignment2_consensus_sequence
+HV_PDF-2845_alignment_consensus_sequence
+PSW0663 seq1 consensus sequence
+PSW0663 seq2 consensus sequence
+HV_PDF-2415 consensus sequence
+HV_PDF-2855_alignment_consensus_sequence
+HV_PDF-2188 consensus sequence 1
+HV_PDF-2188 consensus sequence 2
+HV_PDF-2800_alignment_consensus_sequence
+HV_PDF-3297_only_sequence2
+HV_PDF-3158_only_sequence1_
+HV_PDF-3191_only_sequence_
+HV_PDF-3032_alignment_consensus_sequence
+HV_PDF-0149_only_sequence
+HV_PDF-2944_alignment2_consensus_sequence
+HV_PDF-3315_alignment_consensus_sequence
+HV_PDF-0271_alignment_consensus_sequence
+HV_PDF-3313_alignment2_consensus_sequence
+HV_PDF-3310_alignment1_consensus_sequence_
+HV_PDF-3504_only_sequence_
+HV_PDF-2918_only_sequence_
+HV_PDF-2919_alignment_consensus_sequence
+HV_PDF-3205_alignment_consensus_sequence_
+HV_PDF-3205_only_sequence
+HV_PDF-0043_alignment_consensus_sequence
+PSW0752_Consensus_Sequence
+HV_PDF-3032_only_sequence
+HV_PDF-3173_alignment_consensus_sequence_
+HV_PDF-3297_alignment_consensus_sequence
+HV_PDF-0301_only_sequence
+HV_PDF-3421_only_sequence_
+HV_PDF-3003_alignment1_consensus_sequence_
+HV_PDF-1752 consensus sequence
+HV_PDF-2822_alignment1_consensus_sequence
+HV_PDF-3448_alignment_consensus_sequence_
+HV_PDF-2491 consensus sequence 2
+PSW0737 seq1 consensus seq
+HV_PDF-2463 consensus sequence
+HV_PDF-2103 consensus sequence
+PSW1034 seq2 only sequence (reversed)
+PSW0359 consensus sequence
+HV_PDF-2580 consensus sequence
+HV_PDF-3226_alignment_consensus_sequence_
+HV_PDF-2357 consensus sequence
+PSW1053 consensus (reversed)
+HV_PDF-3070_alignment1_consensus_sequence
+HV_PDF-3420_alignment1_consensus_sequence_
+HV_PDF-3078_alignment2_consensus_sequence
+HV_PDF-2912_alignment1_consensus_sequence
+HV_PDF-3005_alignment_consensus_sequence
+HV_PDF-3330_alignment_consensus_sequence
+HV_PDF-0040_alignment_consensus_sequence
+HV_PDF-3101_alignment_consensus_sequence_
+HV_PDF-3354_alignment1_consensus_sequence
+HV_PDF-3354_only_sequence_
+HV_PDF-3453_alignment_consensus_sequence_
+HV_PDF-2855_only_sequence
+HV_PDF-2188 consensus sequence 3
+PSW0653 seq 2 only sequence
+PSW1022 consensus seq (reversed)
+PSW1088 consensus (reversed)
+HV_PDF-3224_alignment_consensus_sequence
+HV_PDF-3502_alignment2_consensus_sequence_
+HV_PDF-3676_only_sequence_
+PSW0536 consensus seq
+HV_PDF-3597_alignment_consensus_sequence
+HV_PDF-2754 consensus sequence
+PSW0737 Seq3 consensus seq
+HV_PDF-2485 consensus sequence 1
+HV_PDF-3670_alignment_consensus_sequence_
+HV_PDF-0445_alignment_consensus_sequence
+HV_PDF-3508_alignment_consensus_sequence_
+HV_PDF-3263_alignment1_consensus_sequence
